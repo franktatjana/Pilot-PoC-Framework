@@ -5,12 +5,18 @@
 * track the progress --> milestones
 * Q&A --> issues
 
+## Project rules
+- PM documents the project (CRUD) in PROJECT DOCS: project brief, requirements, architecture, meeting minutes
+- PM creates and updates ISSUES with epics and stories, tracks the progress
+- Team works in ISSUES: questions, help needed (be specific, one question per issue)
+- PM updates PROJECT DOCS 
+
 ## Conventions
-- Individual requirements are documented in **user stories** (the smallest unit of work). The common structure for a user story addresses the “who, what, and why” of a feature: “As a *user type*, I want to *task* so that *goal*”. For example: “As a *customer*, I want to *create an account* so that *I can make purchases*”
+- Individual requirements are documented in **USER STORIES** (the smallest unit of work). The common structure for a user story addresses the “who, what, and why” of a feature: “As a *user type*, I want to *task* so that *goal*”. For example: “As a *customer*, I want to *create an account* so that *I can make purchases*”
 
-- Requirements belonging to the same context are united as **epic**, which is a "big" user story. Difference: time and complexity. User stories should be completed in the smallest amount of time possible. If an issue will take weeks or months to finish, it should probably be an Epic.
+- Requirements belonging to the same context are united as **EPIC**, which is a "big" user story. Difference: time and complexity. User stories should be completed in the smallest amount of time possible. If an issue will take weeks or months to finish, it should probably be an Epic.
 
-- GitHub Issues have labels, which tag the content: epic, story, question, documentation, help wanted:
+- GitHub **ISSUES** have LABELS, which tag the content: epic, story, question, documentation, help wanted:
 
 ## Labels
 Label| Description | Comments
@@ -18,8 +24,8 @@ Label| Description | Comments
 Epic | contains a list of user stories | markdown Checklist to track the progress, closed after all checkboxes are checked
 User story | describes the smallest unit of work in the context or the epic | open/closed
 Question | requires a brief description and images if needed, issue title start with Q&A| open/closed
-Documentation | requests for improvements or additions to documentation | open/closed
 Need help | high priority, extra attention is needed | open/closed
+Documentation | requests for improvements or additions to documentation | open/closed
 
 
 ## Templates
