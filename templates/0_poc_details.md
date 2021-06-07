@@ -66,7 +66,7 @@ Procedure for the rest of variables
 _[Provide an overview of what must be accomplished, Name of the VSE and high level objectives of the Pilot Project]_
 
 ## Description of tasks, dates, effort and artifacts
-[List the tasks, steps and artifacts produced. Describe who is responsible for each task/step.]
+_[List the tasks, steps and artifacts produced. Describe who is responsible for each task/step. Link to (../requirements/0_overview.md) ]_
 
 ## Resources 
 _[Describe resources required for this Pilot Project, money, computer resources, etc.]_
@@ -77,20 +77,6 @@ _[Describe, if applicable, the interfaces or dependencies with other groups.]_
 ## Risks 
 _[Provide a basis for risk management and contingency planning.]_
 
-
-# PoC Data Sources Types
-
-Data Sources and Integration | Log Type 
---- | --- 
-Active Directory | Domain Controllers
-
-
-
-# PoC Task List and Success Criteria
-
-Required Log Sources and Context | Success Criteria | Business Value / Data analysis results
---- | --- | ---
-xx | xx | xx
 
 
 # Reference Documents
